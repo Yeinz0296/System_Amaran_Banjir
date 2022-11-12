@@ -1,0 +1,60 @@
+Bilangan,ID Stesen,Nama Stesen,Daerah,Lembangan,Sub Lembangan,Update sekarang,Aras Air,Normal,Waspada,Amaran,Bahaya
+1,3516424,Sg. Selangor di Ampang Pecah,Hulu Selangor,Sungai Selangor,Sg. Selangor,12/11/2022 13:00,50.19,50.10,51.30,51.60,51.90
+2,3416403,Sg. Batang Kali di Batang Kali,Hulu Selangor,Sungai Selangor,Sg. Batang Kali,12/11/2022 13:00,32.65,34.00,35.20,35.50,35.80
+3,3416402,Sg. Liam di Ulu Yam,Hulu Selangor,Sungai Selangor,Sg. Liam,12/11/2022 13:00,32.91,35.00,37.30,37.90,38.30
+4,3315481,Sg. Guntong di Kg. Sungai Buaya,Hulu Selangor,Sungai Selangor,Sg. Guntong,12/11/2022 13:15,14.78,15.00,18.00,18.50,19.00
+5,3615412,Sg. Bernam di Tanjung Malim,Hulu Selangor,Sungai Bernam,Sg. Bernam,12/11/2022 13:00,36.77,38.30,40.60,40.90,41.10
+6,3714480,Sg. Bernam di Kg. Sg. Selisek,Hulu Selangor,Sungai Bernam,Sg. Bernam,12/11/2022 12:30,26.50,23.00,26.10,26.80,27.10
+7,3808401,Sg. Bernam di Sg. Air Tawar,Sabak Bernam,Sungai Bernam,Sg. Bernam,12/11/2022 13:00,0.14,1.00,4.30,4.60,4.90
+8,3711402,Sg. Bernam di Rimba KDR,Sabak Bernam,Sungai Bernam,Sg. Bernam,12/11/2022 12:45,1.45,1.00,1.70,2.00,2.30
+9,3414421,Sg. Selangor di Rantau Panjang,Kuala Selangor,Sungai Selangor,Sg. Selangor,12/11/2022 13:00,8.63,4.50,6.80,7.30,7.80
+10,3313445,Sg. Selangor di Kg. Asahan,Kuala Selangor,Sungai Selangor,Sg. Selangor,12/11/2022 13:15,2.80,0.20,3.22,3.38,3.54
+11,3312446,Sg. Selangor di Teluk Penyamun (Jeti),Kuala Selangor,Sungai Selangor,Sg. Selangor,12/11/2022 12:45,-0.96,1.30,2.10,2.60,3.10
+12,3312447,P/A Sg. Yu 1,Kuala Selangor,Sungai Selangor,Sg. Yu,12/11/2022 13:00,0.77,1.50,1.80,2.00,2.30
+13,3214401,Sg. Buloh di Sri Aman,Kuala Selangor,Sungai Buloh,Sg. Buloh,12/11/2022 13:15,4.45,5.00,6.50,7.00,7.50
+14,3313470,Sg. Buloh di Parit Mahang,Kuala Selangor,Sungai Buloh,Sg. Buloh,12/11/2022 13:00,3.61,1.00,3.50,4.00,4.50
+15,3315401,Sg. Rawang di Taman Tun Teja,Gombak,Sungai Selangor,Sg. Rawang,12/11/2022 13:00,33.13,32.80,34.30,34.80,35.30
+16,3315410,Sg. Gong di Jln. B27 Country Homes,Gombak,Sungai Selangor,Sg. Gong,12/11/2022 13:00,20.84,20.90,21.40,21.70,22.00
+17,3315480,Sg. Bakau di Country Homes Rawang,Gombak,Sungai Selangor,Sg. Bakau,12/11/2022 13:00,16.20,15.80,18.50,19.00,19.50
+18,3215480,Sg. Kuang di Kg. Melayu Seri Kundang,Gombak,Sungai Selangor,Sg. Kuang,12/11/2022 13:00,21.34,20.80,22.70,23.20,23.70
+19,3216467,Sg. Batu di Batu Caves,Gombak,Sungai Klang,Sg. Batu,12/11/2022 13:00,48.77,48.90,51.00,51.50,52.00
+20,3115180,Sg. Buloh di Paya Jaras,Petaling,Sungai Buloh,Sg. Buloh,12/11/2022 07:15,18.23,22.00,23.70,24.30,25.20
+21,0220291,Sg. Bakul di Kg. Budiman,Petaling,Sungai Kapar Besar,Sg. Bakul,12/11/2022 13:00,6.20,7.10,7.40,7.70,8.00
+22,3017445,Sg. Kuyoh di Seri Kembangan,Petaling,Sungai Klang,Sg. Kuyoh,12/11/2022 13:00,36.49,36.50,38.50,39.00,40.00
+23,3016402,Sg. Penchala di Jalan 222,Petaling,Sungai Klang,Sg. Penchala,12/11/2022 13:00,17.04,18.00,21.00,21.50,22.00
+24,3016400,Sg. Klang di USJ 1,Petaling,Sungai Klang,Sg. Klang,12/11/2022 13:00,6.41,10.90,11.40,11.70,12.00
+25,3015436,Sg. Klang di Puchong Drop,Petaling,Sungai Klang,Sg. Klang,12/11/2022 13:00,5.29,7.50,9.00,9.50,10.00
+26,3115404,Sg. Damansara di Kg. Melayu Subang,Petaling,Sungai Klang,Sg. Damansara,12/11/2022 13:00,15.27,14.60,16.40,16.90,17.40
+27,3015490,Sg. Damansara di TTDI Jaya,Petaling,Sungai Klang,Sg. Damansara,12/11/2022 13:00,0.15,3.50,7.30,7.80,8.30
+28,3015435,Sg. Damansara di Batu 3,Petaling,Sungai Klang,Sg. Damansara,12/11/2022 13:00,2.73,2.70,4.50,5.00,6.00
+29,3015432,Sg. Klang di Taman Sri Muda,Klang,Sungai Klang,Sg. Klang,12/11/2022 13:15,2.95,2.80,4.40,4.70,5.00
+30,3015402,Sg. Rasau di Taman Desa Kemuning,Klang,Sungai Klang,Sg. Rasau,12/11/2022 13:15,1.38,1.50,2.60,2.80,3.00
+31,3015481,Sg. Kandis di Kg. Jawa,Klang,Sungai Klang,Sg. Kandis,12/11/2022 13:15,3.82,3.00,4.20,4.70,5.20
+32,3015482,Sg. Rasau di Tugu Keris,Klang,Sungai Klang,Sg. Rasau,12/11/2022 13:00,2.19,1.70,3.30,3.60,3.90
+33,3014401,Sg. Klang di Bandar Klang,Klang,Sungai Klang,Sg. Klang,12/11/2022 13:00,0.21,2.20,2.40,2.70,3.00
+34,3112401,Sg. Binjai di Pekan Meru,Klang,Sungai Klang,Sg. Binjai,12/11/2022 13:15,4.31,2.80,3.40,4.00,4.20
+35,3014402,P/A Pandamaran,Klang,Sungai Klang,Sg. Aur,12/11/2022 13:15,0.09,1.20,1.80,2.00,2.20
+36,3117482,Sg. Ampang di Kg. Lembah Jaya Utara,Hulu Langat,Sungai Klang,Sg. Ampang,12/11/2022 13:00,61.97,60.00,63.20,63.50,63.80
+37,3218401,Sg. Langat di TNB Pangsun,Hulu Langat,Sungai Langat,Sg. Langat,12/11/2022 13:00,131.43,132.90,133.40,133.90,134.40
+38,3118446,Sg. Langat di Batu 20,Hulu Langat,Sungai Langat,Sg. Langat,12/11/2022 13:00,88.42,86.80,89.80,90.10,90.40
+39,3018402,Sg. Langat di Batu 15,Hulu Langat,Sungai Langat,Sg. Langat,12/11/2022 13:15,53.77,52.10,55.30,55.60,55.90
+40,3017481,Sg. Raya di Batu 9,Hulu Langat,Sungai Langat,Sg. Langat,12/11/2022 13:00,37.05,36.00,38.60,39.10,39.60
+41,3017408,Sg. Balak di Kg. Baru Balakong,Hulu Langat,Sungai Langat,Sg. Balak,12/11/2022 13:00,35.33,37.00,37.30,37.60,37.90
+42,3017409,Sg. Kantan,Hulu Langat,Sungai Langat,Sg. Kantan,12/11/2022 13:00,26.03,27.25,28.50,28.80,29.10
+43,2917401,Sg. Langat di Pekan Kajang,Hulu Langat,Sungai Langat,Sg. Langat,12/11/2022 13:00,22.48,22.90,24.40,25.40,26.40
+44,2917402,Sg. Langat di Taman West Country Kajang,Hulu Langat,Sungai Langat,Sg. Langat,12/11/2022 13:00,18.77,19.65,21.40,21.90,22.40
+45,3018401,Sg. Semenyih di Kg. Pasir,Hulu Langat,Sungai Langat,Sg. Semenyih,12/11/2022 13:00,48.52,48.30,48.80,49.80,50.30
+46,2918403,Sg. Semenyih di Jalan Seri Tanjung,Hulu Langat,Sungai Langat,Sg. Semenyih,12/11/2022 13:00,31.52,31.00,34.00,34.50,35.00
+47,2918401,Sg. Semenyih di Rinching,Hulu Langat,Sungai Langat,Sg. Semenyih,12/11/2022 13:00,20.69,22.00,24.00,24.50,25.60
+48,2817480,Sg. Semenyih di Pekan Bangi Lama,Hulu Langat,Sungai Langat,Sg. Semenyih,12/11/2022 13:00,14.30,13.70,15.70,16.20,16.70
+49,2818402,Sg. Beranang di Pekan Beranang,Hulu Langat,Sungai Langat,Sg. Beranang,12/11/2022 13:00,30.65,31.20,31.70,31.90,32.10
+50,2916410,Sg. Rasau di Pulau Meranti,Sepang,Sungai Klang,Sg. Rasau,12/11/2022 13:00,11.27,14.40,14.70,15.00,15.30
+51,2817403,Sg. Langat di Jenderam Hilir,Sepang,Sungai Langat,Sg. Langat,12/11/2022 13:00,8.31,7.40,10.40,10.70,11.00
+52,2817404,Sg. Jenderam di Jenderam Hulu,Sepang,Sungai Langat,Sg. Jenderam,12/11/2022 13:00,9.55,8.90,11.00,12.00,12.30
+53,2717420,Sg. Jijan di Taman Desa Merpati,Sepang,Sungai Langat,Sg. Jijan,12/11/2022 13:00,9.34,11.10,11.40,11.70,12.00
+54,2717401,Sg. Labu di Kg. Salak Tinggi,Sepang,Sungai Langat,Sg. Labu,12/11/2022 13:00,7.22,7.00,8.20,8.70,9.20
+55,2816441,Sg. Langat di Dengkil,Sepang,Sungai Langat,Sg. Langat,12/11/2022 13:00,5.24,3.90,6.40,6.90,7.50
+56,2816443,Sg. Langat di Bukit Changgang,Kuala Langat,Sungai Langat,Sg. Langat,12/11/2022 13:00,3.78,1.90,3.30,3.80,4.20
+57,2815480,Sg. Langat di JPS Sg. Manggis,Kuala Langat,Sungai Langat,Sg. Langat,12/11/2022 13:00,1.62,0.50,2.20,2.70,3.20
+58,2814401,P/A Kg. Teluk Pulai,Kuala Langat,Sungai Langat,Sg. Langat,12/11/2022 13:00,-0.16,0.70,1.30,1.60,1.90
+59,2615480,Sg. Kundang di Kg. Kundang,Kuala Langat,Sungai Kundang,Sg. Kundang,12/11/2022 13:00,1.49,1.80,2.80,3.30,3.80

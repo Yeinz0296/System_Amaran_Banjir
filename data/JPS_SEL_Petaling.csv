@@ -1,0 +1,10 @@
+Bilangan,ID Stesen,Nama Stesen,Daerah,Lembangan,Sub Lembangan,Update sekarang,Aras Air,Normal,Waspada,Amaran,Bahaya
+1,3115180,Sg. Buloh di Paya Jaras,Petaling,Sungai Buloh,Sg. Buloh,11/11/2022 07:00,18.25,22.00,23.70,24.30,25.20
+2,0220291,Sg. Bakul di Kg. Budiman,Petaling,Sungai Kapar Besar,Sg. Bakul,12/11/2022 00:15,6.65,7.10,7.40,7.70,8.00
+3,3017445,Sg. Kuyoh di Seri Kembangan,Petaling,Sungai Klang,Sg. Kuyoh,12/11/2022 00:15,36.59,36.50,38.50,39.00,40.00
+4,3016402,Sg. Penchala di Jalan 222,Petaling,Sungai Klang,Sg. Penchala,12/11/2022 00:30,17.13,18.00,21.00,21.50,22.00
+5,3016400,Sg. Klang di USJ 1,Petaling,Sungai Klang,Sg. Klang,12/11/2022 00:15,7.23,10.90,11.40,11.70,12.00
+6,3015436,Sg. Klang di Puchong Drop,Petaling,Sungai Klang,Sg. Klang,12/11/2022 00:30,6.08,7.50,9.00,9.50,10.00
+7,3115404,Sg. Damansara di Kg. Melayu Subang,Petaling,Sungai Klang,Sg. Damansara,12/11/2022 00:30,15.39,14.60,16.40,16.90,17.40
+8,3015490,Sg. Damansara di TTDI Jaya,Petaling,Sungai Klang,Sg. Damansara,12/11/2022 00:30,0.15,3.50,7.30,7.80,8.30
+9,3015435,Sg. Damansara di Batu 3,Petaling,Sungai Klang,Sg. Damansara,12/11/2022 00:30,3.50,2.70,4.50,5.00,6.00

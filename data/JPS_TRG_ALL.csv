@@ -1,0 +1,29 @@
+Bilangan,ID Stesen,Nama Stesen,Daerah,Lembangan,Sub Lembangan,Update sekarang,Aras Air,Normal,Waspada,Amaran,Bahaya
+1,5424401,Sg. Besut di Jambatan Keruak,Besut,Sungai Besut,Sg. Besut,12/11/2022 12:45,31.46,28.50,33.00,34.00,35.00
+2,5524401,Sg. Besut di Kg. La,Besut,Sungai Besut,Sg. Besut,12/11/2022 12:45,18.24,16.50,19.80,20.80,21.80
+3,5724411,Sg. Besut di Jambatan Jerteh,Besut,Sungai Besut,Sg. Besut,12/11/2022 12:45,1.96,2.30,6.00,7.00,8.50
+4,5428440,Sg. Nerus di Kg. Langkap,Setiu,Sungai Terengganu,Sg. Nerus,12/11/2022 12:45,20.21,17.00,19.50,20.00,21.00
+5,5229436,Sg. Nerus di Kg. Bukit,Setiu,Sungai Terengganu,Sg. Nerus,12/11/2022 12:45,10.94,6.00,10.50,12.00,13.20
+6,5426401,Sg. Setiu di Kg. Besut,Setiu,Sungai Setiu,Sg. Setiu,12/11/2022 12:45,14.23,13.30,16.00,17.00,17.50
+7,5527401,Sg. Setiu di Jambatan Permaisuri,Setiu,Sungai Setiu,Sg. Setiu,12/11/2022 12:45,7.17,5.50,7.60,8.30,8.80
+8,5428401,Sg. Chalok di Jambatan Chalok,Setiu,Sungai Setiu,Sg. Chalok,12/11/2022 12:45,6.27,5.00,7.00,7.70,8.40
+9,5029433,Sg. Terengganu di Kg. Dura,Hulu Terengganu,Sungai Terengganu,Sg. Terengganu,12/11/2022 12:45,9.03,8.00,12.00,13.00,14.50
+10,THTG0004,Sg. Terengganu di Jambatan Kuala Berang,Hulu Terengganu,Sungai Terengganu,Sg. Terengganu,12/11/2022 13:00,4.79,4.50,9.00,11.00,13.00
+11,THTG0077,Sg. Terengganu di Kg. Tanggol,Hulu Terengganu,Sungai Terengganu,Sg. Terengganu,12/11/2022 13:00,3.04,2.00,8.00,9.00,9.80
+12,4934041,Sg. Berang di Kg. Menerong,Hulu Terengganu,Sungai Terengganu,Sg. Berang,12/11/2022 12:45,21.82,20.00,23.50,24.00,24.50
+13,6230015,Sg. Peneh di Felda Mengkawang,Hulu Terengganu,Sungai Terengganu,Sg. Peneh,12/11/2022 12:45,35.76,35.00,36.50,37.00,37.50
+14,THTG0007,Sg. Tersat di Kg. Sekayu,Hulu Terengganu,Sungai Terengganu,Sg. Tersat,12/11/2022 13:00,18.37,17.00,18.00,19.00,20.00
+15,5129438,Sg. Telemong di Kuala Ping,Hulu Terengganu,Sungai Terengganu,Sg. Telemong,12/11/2022 12:45,17.48,16.50,17.70,18.70,19.70
+16,TKTG0003,Sg. Terengganu di Muzium Terengganu,Kuala Terengganu,Sungai Terengganu,Sg. Terengganu,12/11/2022 12:30,0.22,0.50,1.60,2.00,2.40
+17,TKTG0002,Sg. Terengganu di Bukit Tumbuh,Kuala Terengganu,Sungai Terengganu,Sg. Terengganu,12/11/2022 12:45,0.16,0.50,1.60,2.00,2.40
+18,5331410,Sg. Terengganu di Bukit Tumbuh,Kuala Terengganu,Sungai Terengganu,Sg. Terengganu,12/11/2022 12:45,0.25,0.50,1.60,2.00,2.50
+19,TKTG0097,Sg. Terengganu di Draw Bridge,Kuala Terengganu,Sungai Terengganu,Sg. Terengganu,12/11/2022 13:00,-0.11,0.30,1.40,1.60,1.80
+20,5031401,Sg. Marang di Jambatan Pengkalan Berangan,Marang,Sungai Marang,Sg. Marang,12/11/2022 12:45,1.85,1.00,2.00,2.40,2.70
+21,5624411,Sg. Dungun di Kg. Pasir Raja,Dungun,Sungai Dungun,Sg. Dungun,12/11/2022 12:45,35.09,35.70,37.20,37.70,38.70
+22,4730401,Sg. Dungun di Kuala Jengai,Dungun,Sungai Dungun,Sg. Dungun,12/11/2022 12:45,15.66,14.00,19.50,20.00,21.00
+23,4832441,Sg. Dungun di Jambatan Jerangau,Dungun,Sungai Dungun,Sg. Dungun,12/11/2022 12:45,7.41,5.00,10.00,11.50,12.50
+24,4131453,Sg. Cherul di Jambatan Ban Ho,Kemaman,Sungai Kemaman,Sg. Cherul,12/11/2022 12:45,10.65,10.00,17.00,18.00,19.00
+25,4332401,Sg. Tebak di Jambatan Tebak,Kemaman,Sungai Kemaman,Sg. Tebak,12/11/2022 12:45,16.58,15.00,17.50,18.00,18.50
+26,4232401,Sg. Kemaman di Jambatan Air Putih,Kemaman,Sungai Kemaman,Sg. Kemaman,12/11/2022 12:45,9.47,9.00,12.50,13.00,14.00
+27,4233453,Sg. Kemaman di Rumah Pam Paya Paman,Kemaman,Sungai Kemaman,Sg. Kemaman,12/11/2022 12:45,1.42,1.40,3.00,3.50,4.00
+28,4434995,Sg. Tumpat di Kg. Baru Kemasik,Kemaman,Sungai Kemasik,Sg. Kemasik,12/11/2022 12:45,0.52,1.00,1.60,1.90,2.70
